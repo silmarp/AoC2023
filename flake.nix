@@ -1,4 +1,6 @@
 {
+  description = "A flake for advent of code challenge";
+
   inputs = {
     naersk.url = "github:nix-community/naersk/master";
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
